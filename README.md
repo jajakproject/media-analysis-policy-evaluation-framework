@@ -1,3 +1,7 @@
+# This is a fork to modify the Media Analysis and Policy Evaluation Framework
+- Add support to use other ASR models to enhance Cantonese transcription
+- Add support video clipping from GUI/API
+
 # Media Analysis and Policy Evaluation Framework
 
 ## Table of Content
